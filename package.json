@@ -1,0 +1,9 @@
+{
+    "name": "javascript-tricks",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "co": "^4.6.0",
+        "fs-extra": "^5.0.0"
+    }
+}
