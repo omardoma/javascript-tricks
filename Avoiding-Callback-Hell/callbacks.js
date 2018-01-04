@@ -30,9 +30,12 @@ const func2 = function () {
             return console.error(err);
         }
         console.log('Folders were created.');
-        // Do some action that depend on these folders here next
+        // Do some action that depend on these folders here nex
     });
 };
 
+const callback = function (err) {
+    console.log('cdsjcdsjncs');
+}
 
 func2();
